@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cd1f1939-5e6f-4505-a9ba-5399c9d1c73e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/PetersHjemmeside",
+    "appService.deploySubpath": "."
+}

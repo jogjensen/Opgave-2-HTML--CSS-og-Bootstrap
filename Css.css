@@ -1,0 +1,33 @@
+header.MyHeaderStyle{
+	background-color: aqua;
+}
+
+p.HeaderStyle{
+	text-align: left;
+}
+
+h1.HeaderStyleMid{
+	text-align: center;
+	
+	
+}
+p.HeaderStyleMid{
+	text-align: center;
+}
+
+img.PetersHoved{
+	width: 90px;
+	height: 100px;
+	margin-left: auto;
+	margin: auto;
+	display: block;
+}
+
+p.Updated{
+	text-align: right;
+	font-size: 10px;
+}
+
+div.col-sm-4{
+background-color: #CCFFFF;
+}
