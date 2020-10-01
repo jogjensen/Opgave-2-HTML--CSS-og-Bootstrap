@@ -29,5 +29,10 @@ p.Updated{
 }
 
 div.col-sm-4{
+	background-color: #CCFFFF;
+}
+
+div.col-sm-4.a{
 background-color: #CCFFFF;
+border: double;
 }
